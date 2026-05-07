@@ -77,7 +77,7 @@ def live_traffic_chart(df: pd.DataFrame) -> go.Figure:
             line=dict(color=color, width=2),
             marker=dict(size=5, color=color),
             fill="tozeroy",
-            fillcolor=color.replace(")", ",0.08)").replace("rgb", "rgba") if "rgb" in color else color + "15",
+            fillcolor="rgba(0,123,255,0.08)",
         ))
 
     _apply_base(fig, "📡  Live Traffic Timeline")
