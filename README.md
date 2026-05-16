@@ -181,8 +181,8 @@ sudo streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Your Name** · Final Year B.E. Computer Science  
-*Project submitted for [Your College Name], Academic Year 2024–25*
+PRIYADARSHAN S V · Third Year B.Tech. AIML
+*Project submitted for SRM INSTITUTE OF SCIENCE AND TECHNOLOGY , Academic Year 2026*
 
 ---
 
